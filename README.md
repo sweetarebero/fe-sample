@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Instructions
+1. Use the API to get details of all the countries and create a table with following details
+   a. Country name
+   b. Yesterday's Covid cases
+   c. Total cases
+   d. Recovered cases
+2. You should be able to sort the table in ascending and descending order of all the options.
+3. If you click the country row you should be able to display complete details of that particular country with respect to covid.
+
+API list: https://documenter.getpostman.com/view/11144369/Szf6Z9B3?version=latest
+
 ## Available Scripts
 
 In the project directory, you can run:
